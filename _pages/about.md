@@ -10,7 +10,7 @@ Aspiring materials scientist with research interests in thermoelectric materials
 
 I received my bachelor’s degree in [Materials and Metallurgical Engineering](https://mme.buet.ac.bd/) from [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/) , Dhaka, Bangladesh. Currently, I am working as an Erasmus+ Visiting Researcher at [University of Limerick](https://www.ul.ie/), Ireland, with research exposure at [Tyndall National Institute](https://www.tyndall.ie/), Ireland, where my work focuses on Mg₂Sn-based thermoelectric materials, interface engineering, and transport behavior, alongside growing research interest in semiconductor materials and device-relevant functional interfaces.
 
-DOWNLOAD FULL CV/RESUME
+[DOWNLOAD FULL CV/RESUME]({{ site.baseurl }}/assets/pdf/Rafi_CV.pdf)
 
 Education
 ======
